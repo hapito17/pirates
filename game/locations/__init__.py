@@ -1,4 +1,4 @@
-__all__ = ["shallow",
+__all__ = ["my_locations", "shallow",
 "island",
 "whirlpool",
 "homeport",
